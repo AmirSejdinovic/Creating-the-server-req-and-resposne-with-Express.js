@@ -1,0 +1,22 @@
+{
+  "name": "Simple server",
+  "version": "1.0.0",
+  "description": "Simple express exercise",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirSejdinovic/Creating-the-server-req-and-resposne-with-Express.js.git"
+  },
+  "author": "Amir Sejdinović",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirSejdinovic/Creating-the-server-req-and-resposne-with-Express.js/issues"
+  },
+  "homepage": "https://github.com/AmirSejdinovic/Creating-the-server-req-and-resposne-with-Express.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
